@@ -1,5 +1,5 @@
 ### Hi there 👋, It's  Stevens
-#### I am developer junior
+#### I am developer semi senior
 ![I am developer junior](https://res.cloudinary.com/dos13qenv/image/upload/v1599327586/Livery/Livery_Final-02_huwr5b_wx368q.png)
 
 Live while we're young
