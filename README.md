@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Indra - Minsait ](https://www.indracompany.com/es/minsait)
 
-- 🌱 I’m currently learning **ServiceNow and AWS, **
+- 🌱 I’m currently learning **ServiceNow and AWS**
 
 - 💬 Ask me about **React, React Native, Vue Js, Node Js**
 
